@@ -1,1 +1,1 @@
-# financeProject
+# git and github
